@@ -32,7 +32,7 @@
       <vcs-entry-ref root-id="OpenSourceProjects_XmlDocInspections_HttpsGithubComUlrichbXmlDocInspections" />
     </vcs-settings>
     <requirements>
-      <exists id="RQ_340" name="MSBuildTools15.0_x86_Path" />
+      <exists id="RQ_340" name="MSBuildTools16.0_x64_Path" />
     </requirements>
     <build-triggers />
     <build-extensions>
